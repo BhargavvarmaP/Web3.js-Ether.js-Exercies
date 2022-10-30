@@ -1,0 +1,20 @@
+{
+  "name": "web3.js-ether.js-exercies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhargavvarmaP/Web3.js-Ether.js-Exercies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhargavvarmaP/Web3.js-Ether.js-Exercies/issues"
+  },
+  "homepage": "https://github.com/BhargavvarmaP/Web3.js-Ether.js-Exercies#readme"
+}
