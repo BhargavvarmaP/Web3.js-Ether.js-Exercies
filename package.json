@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/BhargavvarmaP/Web3.js-Ether.js-Exercies/issues"
   },
-  "homepage": "https://github.com/BhargavvarmaP/Web3.js-Ether.js-Exercies#readme"
+  "homepage": "https://github.com/BhargavvarmaP/Web3.js-Ether.js-Exercies#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "ethereumjs-tx": "^2.1.2",
+    "ethers": "^5.7.2",
+    "web3": "^1.8.0"
+  }
 }
